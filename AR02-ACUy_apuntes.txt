@@ -1,0 +1,18 @@
+Actualizado 26/07/21
+
+Inspirado en 'Packaging Data Analytical Work Reproducibly Using R (and Friends)' (https://ro.uow.edu.au/smhpapers/5389)
+Esto son todas las carpetas que sugieren (similar a un paquete) en la versión más completa; se pueden omitir si no corresponde:
+
+DESCRIPTION
+readme
+LICENSE
+NAMESPACE
+analisis/datos
+analisis/scripts
+reporte.Rmd
+Makefile
+R/funciones.R
+man/funciones.Rd
+tests/testthat.R
+.travis.yml
+Dockerfile
